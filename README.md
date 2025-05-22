@@ -5,8 +5,7 @@ Ce dépôt contient une implémentation Python de la méthode de détection d’
 ## Table des matières
 
 - [Contexte](#contexte)  
-- [Fonctionnalités](#fonctionnalités)  
-- [Installation](#installation)   
+- [Fonctionnalités](#fonctionnalités)   
 
 ## Contexte
 
@@ -18,5 +17,4 @@ Dans un jeu de n pièces dont une seule est fausse, elle peut être plus légèr
 - Simulation de la balance à trois issues (gauche plus léger, équilibré, gauche plus lourd)  
 - Recherche récursive de la fausse pièce quand on sait qu’elle est plus légère  
 - Procédure en deux phases pour identifier la fausse pièce quand sa nature (lourde/légère) est inconnue
-- Plus d'informations dans le rapport
 
